@@ -5,7 +5,7 @@
 
 - 🔭 I'm using **Java, Python, Selenium webdriver, Cucumber, Junit, TestNg, SQL, Postman, Newman, RestAssured, AWS, Jenkins, Selenium Grid and Docker.** 
 
-- 🌱 I’m currently learning **Spring framework**
+- 🌱 I’m currently learning **FLASK API**
 
 - 📫 How to reach me: **@tekemehmet@yahoo.com**
 
